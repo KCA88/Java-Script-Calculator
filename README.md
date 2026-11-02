@@ -1,2 +1,3 @@
-# Java-Script-Calculator
-Beginner Practice for Java Script in VS Code
+# Web-design-IT2A 
+
+A repo to hold practice projects
